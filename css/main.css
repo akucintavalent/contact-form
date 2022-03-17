@@ -326,6 +326,40 @@ li {
   list-style: inside url("../media/svg/circle.svg");
 }
 
-.contact-form {
+.contact-me-section {
   background-color: white;
+  padding: 2rem;
+}
+
+.contact-me-section h1 {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.contact-me-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  height: 50vh;
+  margin-top: 8.6vh;
+  margin-bottom: 6.8vh;
+}
+
+.form-input {
+  height: 48px;
+  background: #fff;
+  border-bottom: 1px solid #d0d9d4;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.textarea-input {
+  height: 15vh;
+  background: #fff;
+  box-sizing: border-box;
+  border-radius: 4px;
 }
