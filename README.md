@@ -13,15 +13,15 @@ Clone the repo to the directory you wish it to be located in:
 git clone git@github.com:akucintavalent/hello-microverse.git
 ```
 
-Open `indx.html` in any browser.
+Open `index.html` in any browser.
 
 ## Authors
 
-👤 **Dan**
+👤 **Bohdan Shcherbak**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- [GitHub](https://github.com/akucintavalent)
+- [Twitter](https://twitter.com/ibodi828)
+- [LinkedIn](https://www.linkedin.com/in/bohdan-shcherbak/)
 
 ## 🤝 Contributing
 

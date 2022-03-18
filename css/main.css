@@ -337,6 +337,7 @@ li {
   font-weight: bold;
   font-size: 32px;
   line-height: 44px;
+  text-align: center;
 }
 
 .contact-me-form {
@@ -352,6 +353,8 @@ li {
 .form-input {
   height: 48px;
   background: #fff;
+  border: 0;
+  padding: 15px;
   border-bottom: 1px solid #d0d9d4;
   box-sizing: border-box;
   border-radius: 4px;
@@ -360,6 +363,11 @@ li {
 .textarea-input {
   height: 15vh;
   background: #fff;
+  padding: 15px;
   box-sizing: border-box;
   border-radius: 4px;
+}
+
+.in-touch {
+  border: 0;
 }
